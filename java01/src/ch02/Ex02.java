@@ -18,5 +18,7 @@ public class Ex02 {
 		list.forEach(m  -> System.out.print("Age : "+m.getAge()+", Name : "+m.getName()+", Gender : "+m.getGender()+", Tel : "+m.getTel()+"\n"));
 		//이클립스 주석추가1
 		//이클립스 주석추가2
+		//깃 주석추가1
+		//깃 주석추가2
 	}
 }
