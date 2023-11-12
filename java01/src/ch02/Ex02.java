@@ -16,8 +16,6 @@ public class Ex02 {
 		list.add(new Member(24,"jein","woman","010-5555-7777")) ;
 		list.forEach(System.out::println);
 		list.forEach(m  -> System.out.print("Age : "+m.getAge()+", Name : "+m.getName()+", Gender : "+m.getGender()+", Tel : "+m.getTel()+"\n"));
-		//이클립스 주석추가 1
-		//이클립스 주석추가 2
 		// 깃 주석 추가1
 		// 깃 주석 추가2
 	}
