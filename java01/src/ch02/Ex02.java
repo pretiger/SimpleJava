@@ -16,7 +16,6 @@ public class Ex02 {
 		list.add(new Member(24,"jein","woman","010-5555-7777")) ;
 		list.forEach(System.out::println);
 		list.forEach(m  -> System.out.print("Age : "+m.getAge()+", Name : "+m.getName()+", Gender : "+m.getGender()+", Tel : "+m.getTel()+"\n"));
-		//tiger comment add 1
-		//tiger comment add 2
+
 	}
 }
