@@ -17,6 +17,5 @@ public class Ex02 {
 		list.forEach(System.out::println);
 		list.forEach(m  -> System.out.print("Age : "+m.getAge()+", Name : "+m.getName()+", Gender : "+m.getGender()+", Tel : "+m.getTel()+"\n"));
 		//init commit
-		//first
 	}
 }
