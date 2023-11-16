@@ -20,6 +20,5 @@ public class Ex02 {
 		//first
 		//gitignore 수정
 		//second
-		//third
 	}
 }
