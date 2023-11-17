@@ -19,6 +19,5 @@ public class Ex02 {
 		//init commit
 		//first
 		//gitignore수정	
-		//second
 	}
 }
