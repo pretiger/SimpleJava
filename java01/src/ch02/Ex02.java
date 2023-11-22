@@ -18,5 +18,6 @@ public class Ex02 {
 		list.forEach(m  -> System.out.print("Age : "+m.getAge()+", Name : "+m.getName()+", Gender : "+m.getGender()+", Tel : "+m.getTel()+"\n"));
 		//tiger comment add 1
 		//tiger comment add 2
+		//tiger comment add 3
 	}
 }
